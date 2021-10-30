@@ -14,8 +14,8 @@ Por padrão a chave criada é no diretorio `c/Users/seuusuario/.ssh/` com o nome
 Enter file in which to save the key (/c/Users/seuusuario/.ssh/id_rsa):  
 ```
 
-- Caso for utilizar o caminho e arquivo padrão basta apertar enter. (não será necessário realizar o passo X)
- - Caso for utilizar outro caminho informar um diretorio existente e um nome para o arquivo Ex.:  c:/sshdir/chavessh `(será obrigatório realizar o passo X)`
+- Caso for utilizar o caminho e arquivo padrão basta apertar enter. (não será necessário realizar o passo 9)
+ - Caso for utilizar outro caminho informar um diretorio existente e um nome para o arquivo Ex.:  c:/sshdir/chavessh `(será obrigatório realizar o passo 9)`
 
  3 - Caso queira obrigar digitar uma senha toda vez quer for utilizar a chave ssh deve ser informado a senha desejada nesse momento caso contrário pressione enter.
 
